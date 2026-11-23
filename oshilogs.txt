@@ -12,62 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ranita =====
-[1]Ranita      |12:55:01 | 22-11-2026| login OK @ranitasilviana | score=3430 rank=2226
-[1]Ranita      |12:55:01 | 22-11-2026| serverTime=2026-11-22T12:55:01.000Z local=2026-11-22T12:55:01.458Z
+[1]Ranita      |15:28:51 | 23-11-2026| login OK @ranitasilviana | score=3480 rank=2177
+[1]Ranita      |15:28:51 | 23-11-2026| serverTime=2026-11-23T15:28:51.000Z local=2026-11-23T15:28:51.326Z
 --> [1]Ranita menjalankan: Claim Daily
-[1]Ranita      |12:55:02 | 22-11-2026| daily: OK +10 poin score=3440
---> [1]Ranita menjalankan: Auto All Tasks (4 pending)
-[1]Ranita      |12:55:04 | 22-11-2026| [1/4] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/ranitasilviana/status/2124486429454133492
-[1]Ranita      |12:55:04 | 22-11-2026| delay 10s...
-[1]Ranita      |12:55:16 | 22-11-2026| [2/4] ddf40dac (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/ranitasilviana/status/2124486449170139798
-[1]Ranita      |12:55:16 | 22-11-2026| delay 10s...
-[1]Ranita      |12:55:28 | 22-11-2026| [3/4] 765f5781 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/ranitasilviana/status/2124486599068815233
-[1]Ranita      |12:55:28 | 22-11-2026| delay 10s...
-[1]Ranita      |12:55:40 | 22-11-2026| [4/4] 043ba6d6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/ranitasilviana/status/2124486400880456050
-[1]Ranita      |12:55:40 | 22-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ranita      |12:55:41 | 22-11-2026| [1/1] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124429301026271 | proof=https://x.com/ranitasilviana/status/2124486568701302284
+[1]Ranita      |15:28:52 | 23-11-2026| daily: OK +10 poin score=3490
+--> [1]Ranita menjalankan: Auto All Tasks (2 pending)
+[1]Ranita      |15:28:54 | 23-11-2026| [1/2] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/ranitasilviana/status/2124887489551690696
+[1]Ranita      |15:28:54 | 23-11-2026| delay 10s...
+[1]Ranita      |15:29:07 | 23-11-2026| [2/2] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/ranitasilviana/status/2124887547694063984
+[1]Ranita      |15:29:07 | 23-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ranita      |15:29:08 | 23-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124855547879113 | proof=https://x.com/ranitasilviana/status/2124887725079614172
 --> [1]Ranita menjalankan: Watch Anime
-[1]Ranita      |12:55:42 | 22-11-2026| watch: semua video sudah completed
+[1]Ranita      |15:29:09 | 23-11-2026| watch: semua video sudah completed
 --> [1]Ranita menjalankan: Read Article
-[1]Ranita      |12:55:43 | 22-11-2026| news: 34/34 artikel selesai dibaca
-[1]Ranita      |12:55:43 | 22-11-2026| mint eligibility: {"userId":"1709541118529216512","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Ranita      |12:55:43 | 22-11-2026| news: semua artikel sudah dibaca
+[1]Ranita      |15:29:11 | 23-11-2026| news ERROR: news-progress http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Ranita menjalankan: Quiz Anime
+[1]Ranita      |15:29:11 | 23-11-2026| quiz ERROR: quizzes http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Ranita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ranita      |12:55:45 | 22-11-2026| music: kedua misi sudah tercapai, stop
-[1]Ranita      |12:55:46 | 22-11-2026| mission music-listens-10: sudah diklaim
-[1]Ranita      |12:55:46 | 22-11-2026| mission music-minutes-30: sudah diklaim
-[1]Ranita      |12:55:46 | 22-11-2026| mission anime-completed-3: sudah diklaim
+[1]Ranita      |15:29:12 | 23-11-2026| music ERROR: music-progress http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+[1]Ranita      |15:29:12 | 23-11-2026| missions ERROR: missions http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Ranita menjalankan: Claim Missions
-[1]Ranita      |12:55:46 | 22-11-2026| mission music-listens-10: sudah diklaim
-[1]Ranita      |12:55:46 | 22-11-2026| mission music-minutes-30: sudah diklaim
-[1]Ranita      |12:55:46 | 22-11-2026| mission anime-completed-3: sudah diklaim
+[1]Ranita      |15:29:12 | 23-11-2026| missions ERROR: missions http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Ranita menjalankan: Check Eligibility
 
 --- eligibility [1]Ranita ---
-  @ranitasilviana | score=3430 rank=2226
-  tasks    [#########-----------] 3/7
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [?]
+  @ranitasilviana | score=3480 rank=2177
+  tasks    [##############------] 5/7
+  missions: ERROR missions http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
   watch    [####################] 22/17
-  music    [#################---] 11/13
-  artikel  [####################] 34/34
-  mint: requirementsMet=false mintOpen=false discord=true
+  music: ERROR music-progress http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 
 --> [1]Ranita menjalankan: Read Manga
-[1]Ranita      |12:55:50 | 22-11-2026| manga: 0/13 chapter belum completed
+[1]Ranita      |15:29:12 | 23-11-2026| manga ERROR: manga-history http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Ranita menjalankan: Get Gift
-[1]Ranita      |12:55:51 | 22-11-2026| gift: 3/12 belum diterima
-[1]Ranita      |12:55:52 | 22-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Ranita      |12:55:54 | 22-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Ranita      |12:55:57 | 22-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Ranita      |15:29:12 | 23-11-2026| gift ERROR: gifts http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Ranita menjalankan: Setup Profile
-[1]Ranita      |12:56:00 | 22-11-2026| profile: bio="https://x.com/ranitasilviana" fav=yuki rewardAt=1791685647
-[1]Ranita      |12:56:00 | 22-11-2026| profile: bonus sudah diklaim, skip
+[1]Ranita      |15:29:12 | 23-11-2026| profile ERROR: member-settings http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Ranita menjalankan: Bind Wallet
-[1]Ranita      |12:56:00 | 22-11-2026| wallet: sudah terikat 4EmNRnerJN... (solana)
+[1]Ranita      |15:29:13 | 23-11-2026| wallet ERROR: member-settings http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 
 == RINGKASAN ==
-- Ranita: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Ranita: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
